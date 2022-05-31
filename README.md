@@ -1,90 +1,38 @@
-# Hisoka-Morou
-Script WhatsApp Bot Multi Device
+<p align="center">
+<img src="https://telegra.ph/file/0c948e309cc07fb7f3cfa.jpg" alt="XzeeBotz" width="500"/>
 
-## NOTE
-This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother !
+- 👋 Hi, I’m @XzeeBotz
+- 👀 I’m 14 Years Old
+- 🌱 I’m From Surabaya
+- 💞️ Mine Not Found.
 
 <p align="center">
-	<img src="https://telegra.ph/file/09cc0981ccf07754d0af6.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
-</p>
-<h1 align="center">Hisoka-Morou</h1>
+<a href="https://wa.me/+6281381685954"><img title="Admin" src="https://img.shields.io/badge/Admin-XzeeBotz-green.svg?style=for-the-badge&logo=whatsapp"></a>
 
-This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
+## `Nomor Admin`
 
-## My Project
-* New script to replace this script [`look here`](https://github.com/zhwzein/Killua-Zoldyck) (`Support Legacy or Baileys`)
-* WhatsApp Bot normal [`DikaArdnt/Hisoka-Morrow`](https://github.com/DikaArdnt/Hisoka-Morrow)
-* WhatsApp Bot Multi Device [`DikaArdnt/Hisoka-Morou`](https://github.com/DikaArdnt/Hisoka-Morou)
-* WhatsApp Bot Using Library whatsapp-web.js [`hisoka-waweb.js`](https://github.com/Hisoka-Morrou/hisoka-waweb.js/)
+[ `Owner OchoBotz` ](https://wa.me/+6282232806698)
 
+[ `Owner XzeeBotz` ](https://wa.me/+6281381685954)
 
-## UNTUK PENGGUNA WINDOWS/RDP
+## `SocMed`
 
-* Unduh & Instal Git [`Klik Disini`](https://git-scm.com/downloads)
-* Unduh & Instal NodeJS [`Klik Disini`](https://nodejs.org/en/download)
-* Unduh & Instal FFmpeg [`Klik Disini`](https://ffmpeg.org/download.html) (**Jangan Lupa Tambahkan FFmpeg ke variabel lingkungan PATH**)
+[ `Instagram` ](https://instagram.com/@achel.haid_)
 
+[ `Tiktok` ](https://tiktok.com/@achel.haid)
 
-```bash
-git clone https://github.com/DikaArdnt/Hisoka-Morou
-cd Hisoka-Morou
-npm install
-```
+## `Thanks To`
 
-## HOW TO CONNECT TO MONGODB WHEN RUN IN HEROKU
+- Allah SWT.
+- Ortu.
+- Zeeone Ofc.
+- Lexxy Ofc.
+- Nurutomo.
+- Siegrin.
+- Ryuuka Team / R-TEAM.
+- Maul Botz.
+- Saipul Anuar.
+- AlyaaaXzy
+- BotolBotz
+- Dan Creator Bot Lainnya...
 
-* Create account and database in mongodb atlas [`watch here`](https://youtu.be/rPqRyYJmx2g)
-* when you already have a database, you just need to take mongourl
-* Put mongourl in Procfile `web: node . --db 'mongourl'`
-* Example `web: node . -- db 'Your Mongo URI'`
-
-
-
-## FOR TERMUX/UBUNTU/SSH USER
-
-```bash
-apt update && apt upgrade
-apt install git -y
-apt install nodejs -y
-apt install ffmpeg -y
-git clone https://github.com/DikaArdnt/Hisoka-Morou
-cd Hisoka-Morou
-npm install
-```
-
-## RECOMMENDED INSTALL ON TERMUX
-
-```bash
-pkg install yarn
-yarn
-```
-
-## Installing
-```bash
-$ node .
-```
-
-## ❗ Warning
-WhatsApp bot is still in the development stage, so there are a few bugs
-WhatsApp Connection (BETA, not working perfectly)
-
-Editing Number Owner & session name in [`config.js`](https://github.com/DikaArdnt/Hisoka-Morou/blob/master/config.js)
-Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
-
-
-## Thanks To
-* [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-* [`Nurutomo`](https://github.com/Nurutomo)
-* [`Mhankbarbar`](https://github.com/MhankBarBar)
-* [`DikaArdnt`](https://github.com/DikaArdnt)
-* [`Fatih Arridho`](https://github.com/FatihArridho)
-* [`zhwzein`](https://github.com/zhwzein)
-* [`CAF-ID`](https://github.com/CAF-ID)
-* [`Hisoka775`](https://github.com/Hisoka775)
-
-
-License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
-
-Support Me
-* [`Paypal`](https://www.paypal.me/Cakhaho)
-* [`Saweria`](https://saweria.co/DikaArdnt)
